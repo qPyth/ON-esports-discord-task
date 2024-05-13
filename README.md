@@ -24,7 +24,7 @@ The bot records audio from the channel until the time expires, which must be spe
 
 > Command in bot DM to get recordings of all participants for a specific voice channel: 
 > ```text
-> !record [voice channel ID]
+> !records [voice channel ID]
 > ```
 > The bot will provide links to download files for the specified channel, or return messages that there are no entries for this channel
 
